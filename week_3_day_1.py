@@ -74,7 +74,13 @@ print(f"{name} liked to hum the song {song} while coding. It was so annoying tha
 
 print(f"Still, {name} was the best coder on the team and could write {number} lines of code every day. Maybe {song} was {name}'s secret power?")
 
-
+#last_name
+#email_address
+#percent
+#variable_name
+#list_of_names
+#illinois
+#o_block
 
 
 
