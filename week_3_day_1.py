@@ -64,15 +64,15 @@ number = 2
 
 
 # Once upon a time, there was a [age] old coder named [name].
-print("once upon a time there was a" + str(age) + "old coder named" + name +".")
-print(f"Once upon a time, there was a {age} old coder named {name}.")
+#print("once upon a time there was a" + str(age) + "old coder named" + name +".")
+#print(f"Once upon a time, there was a {age} old coder named {name}.")
 # [name] liked to hum the song [song] while coding. It was so annoying that their teammates would throw [food] until [name] would stop singing.
-print(f"{name} liked to hum the song {song} while coding. It was so annoying that their teammates would throw {food} until {name} would stop singing")
+#print(f"{name} liked to hum the song {song} while coding. It was so annoying that their teammates would throw {food} until {name} would stop singing")
 
 # Still, [name] was the best coder on the team and could write [number] lines of code every day. Maybe [song] was [name]’s secret power?
 ##########################################################################################
 
-print(f"Still, {name} was the best coder on the team and could write {number} lines of code every day. Maybe {song} was {name}'s secret power?")
+#print(f"Still, {name} was the best coder on the team and could write {number} lines of code every day. Maybe {song} was {name}'s secret power?")
 
 #last_name
 #email_address
@@ -177,21 +177,34 @@ print(f"Still, {name} was the best coder on the team and could write {number} li
 
 ##########################################################################################
 # #addition
+print(2 + 2)
 # #multiplication
+print(2 * 2)
 # #division
+print(2 / 2)
 # #modulo
+print(2 % 2)
 # #powers
+print(2 ** 2)
 # #get the max and min of a number
+print(max(2, 3))
+print(min(2, 3))
 # #round a number
+print(round(2.5)) #rounds number
 # # absolute value
+print(abs (-2))
 # # order of operations
+print(2 + 10 * 10 + 3)
 # #to do more you need to import special math libraries from python
+from math import *
 # #from math import *    
 # #this goes out and grabs some different math functions we can use
 # #floor method
+print(floor(3.7))
 # #ceil method
+print(ceil(2.4))
 # #sqrt method
-
+print(sqrt(16))
 
 
 
